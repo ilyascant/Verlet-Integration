@@ -1,4 +1,4 @@
-# Verlet-Integration-Implementation
+# Verlet Integration
 
 ![Verlet Integration](https://media.giphy.com/media/gvuI4G4NEKVLTX7Xtw/giphy.gif)
 
